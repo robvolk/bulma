@@ -324,7 +324,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "Nunito Sans", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Lato", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 code,
@@ -2709,7 +2709,7 @@ a.box:active {
 .content h5,
 .content h6 {
   color: #363636;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.125;
 }
 
@@ -5079,7 +5079,7 @@ a.tag:hover {
 .title {
   color: #363636;
   font-size: 2rem;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.125;
 }
 
@@ -5133,7 +5133,7 @@ a.tag:hover {
 
 .subtitle strong {
   color: #363636;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .subtitle:not(.is-spaced) + .title {
